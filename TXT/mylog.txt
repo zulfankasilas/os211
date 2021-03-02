@@ -5,3 +5,6 @@ ZCZC W00 10 L03 GitHub related
 ZCZC W00 100 L02 ZOOM related
 ZCZC W00 15 L01 Scele related
 ZCZC W00 15 L21 Download & Install VirtualBox
+ZCZC W01 30 L01 Scele related
+ZCZC W01 100 L02 Zoom related
+ZCZC W01 5 L05 GSGS related
