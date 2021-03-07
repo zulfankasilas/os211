@@ -8,3 +8,6 @@ ZCZC W00 15 L21 Download & Install VirtualBox
 ZCZC W01 30 L01 Scele related: Pop Quiz
 ZCZC W01 100 L02 Zoom related: Sync Class
 ZCZC W01 5 L05 GSGS related: Pop Quiz Thing
+ZCZC W01 30 L03 GitHub related
+ZCZC W01 10 L05 GSGS related: Github Thing
+ZCZC W01 5 L09 AsDos : asking
