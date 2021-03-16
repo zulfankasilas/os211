@@ -20,10 +20,13 @@ ZCZC W01 3 L16 Assignment #6
 ZCZC W01 60 L17 Assignment #7
 ZCZC W02 15 L01 Scele related
 ZCZC W02 100 L02 Zoom related : Sync Class
-ZCZC W02  30 L12 Assignment #2 : Try Demo
-ZCZC W02  10 L13 Assignment #3 : Generate GnuPG Pair Key
-ZCZC W02  10 L14 Assignment #4 : Import PubKey
-ZCZC W02  10 L15 Assignment #5 : Export PubKey
-ZCZC W02 60 L16 Assignment #6 : update my rank
-ZCZC W02  10 L18 Assignment #8 : copying bash script from cbkadal
-ZCZC W02  10 L19 Assignment #9 : Updating mylog
+ZCZC W02  60 L12 Assignment #2 : Read osc10 chapter 16 & 17
+ZCZC W02  30 L13 Assignment #3 : Try Demo Week 2
+ZCZC W02  10 L14 Assignment #4 : Generate GnuPG Pair Key
+ZCZC W02  10 L15 Assignment #5 : Import PubKey
+ZCZC W02  10 L16 Assignment #6 : Export PubKey
+ZCZC W02 60 L17 Assignment #7 : Update top 3/10 closest neighbors
+ZCZC W02 180 L18 Assignment #8 : Searching and writing week 2 top 10 list
+ZCZC W02  10 L19 Assignment #9 : Copying bash script from cbkadal
+ZCZC W02  10 L20 Assignment #10 : Updating mylog
+ZCZC W02  10 L20 Assignment #11 : create SHA256SUM
