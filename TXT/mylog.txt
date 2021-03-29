@@ -38,8 +38,19 @@ ZCZC W03 90 L11 Assignment #1 : Read osc10 ch.13,14,15
 ZCZC W03 25 L12 Assignment #2 : Try demos w2 & w3
 ZCZC W03 3 L13 Assignment #3 : Checking .bash_aliases file is up-to-date
 ZCZC W03 60 L14 Assignment #4 : Update top 3 closest neighbors
-ZCZC W03 120 L15 Assignment #5 : GSGS and writing week 3 top 3 list
+ZCZC W03 120 L15 Assignment #5 : GSGS and writing week 3 top 10 list
 ZCZC W03 10 L16 Assignment #6 : update mylog.txt
 ZCZC W03 20 L17 Assignment #7 : download W03.tar.bz2.asc and doing the task
 ZCZC W03 10 L18 Assignment #8 : Update bash script
 ZCZC W03 10 L19 Assignment #9 : SHA256SUM
+ZCZC W04 100 L02 Zoom Related : Sync Class
+ZCZC W04 15 L03 Github Related
+ZCZC W04 30 L09 AsDos : asking
+ZCZC W04 50 L11 Assignment #1 : Read osc10 chapter 9
+ZCZC W04 30 L12 Assignment #2 : Try demos week 04
+ZCZC W04 45 L13 Assignment #3 : Update top 3 closest neighbors
+ZCZC W04 100 L14 Assignment #4 : GSGS and writing week 4 top 10 list
+ZCZC W04 10 L15 Assignment #5 : update mylog.txt
+ZCZC W04 20 L16 Assignment #6 : download WEEK04.tar.bz2.asc and doing the task
+ZCZC W04 10 L17 Assignment #7 : update bash script
+ZCZC W04 10 L18 Assignment #8 : SHA256NUM
