@@ -9,7 +9,7 @@ Zulfan Kasilas Dinca - 1906285516 <br>
 2. [Week 02](W02/)
 3. [Week 03](W03/)
 4. [Week 04](W04/)
-5. Week 05
+5. [Week 05](W05/)
 6. Week 06
 7. Week 07
 8. Week 08
