@@ -54,3 +54,12 @@ ZCZC W04 10 L15 Assignment #5 : update mylog.txt
 ZCZC W04 20 L16 Assignment #6 : download WEEK04.tar.bz2.asc and doing the task
 ZCZC W04 10 L17 Assignment #7 : update bash script
 ZCZC W04 10 L18 Assignment #8 : SHA256NUM
+ZCZC W05 10 L01 Scele Related
+ZCZC W05 100 L02 Zoom Related : Sync Class
+ZCZC W05 30 L23 Discord : Pop Quiz
+ZCZC W05 60 L11 Assignment #1 : Read OSC Chapter 10
+ZCZC W05 45 L12 Assignment #2 : Update Top 3 Neighbor
+ZCZC W05 120 L13 Assignment #3 : Create W05 Top 10 List
+ZCZC W05 30 L14 Assignment #4 : Download W05.tar.bz2.asc and doing the task
+ZCZC W05 10 L15 Assignment #5 : Update mylog.txt
+ZCZC W05 10 L16 Assignment #6 : SHA256SUM
