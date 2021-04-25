@@ -63,3 +63,13 @@ ZCZC W05 120 L13 Assignment #3 : Create W05 Top 10 List
 ZCZC W05 30 L14 Assignment #4 : Download W05.tar.bz2.asc and doing the task
 ZCZC W05 10 L15 Assignment #5 : Update mylog.txt
 ZCZC W05 10 L16 Assignment #6 : SHA256SUM
+ZCZC W06 30 L01 Scele related : POP QUIZ
+ZCZC W06 10 L03 Github related
+ZCZC W06 30 L05 GSGS related
+ZCZC W06 10 L09 Asdos : asking
+ZCZC W06 45 L11 Assignment #1 : Read osc10 ch3 & 4
+ZCZC W06 60 L12 Assignment #2 : Update top 3 closest neighbors
+ZCZC W06 100 L13 Assignment #3 : GSGS and writing week 6 top 10 list
+ZCZC W06 15 L14 Assignment #4 : Download WEEK06.tar.bz2.asc and do the task
+ZCZC W05 10 L15 Assignment #5 : Update mylog.txt
+ZCZC W05 10 L16 Assignmetn #6 : SHA256NUM
