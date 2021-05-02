@@ -73,3 +73,14 @@ ZCZC W06 100 L13 Assignment #3 : GSGS and writing week 6 top 10 list
 ZCZC W06 15 L14 Assignment #4 : Download WEEK06.tar.bz2.asc and do the task
 ZCZC W06 10 L15 Assignment #5 : Update mylog.txt
 ZCZC W06 10 L16 Assignmetn #6 : SHA256NUM
+ZCZC W07 30 L01 Scele related : POP QUIZ
+ZCZC W07 100 L02 Zoom related : Sync class
+ZCZC W07 15 L05 GSGS related
+ZCZC W07 5 L07 Demo related
+ZCZC W07 10 L09 AsDos: asking
+ZCZC W07 120 L10 Read chapter 06,07, & 08
+ZCZC W07 60 L11 Update myrank.txt
+ZCZC W07 120 L12 Update week 7 top 10 list
+ZCZC W07 15 L13 Download WEEK07.tar.bz2.asc and do the task
+ZCZC W07 10 L14 Update mylog.txt
+ZCZC W07 5 L15 make SHA256NUM
