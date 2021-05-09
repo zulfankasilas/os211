@@ -84,3 +84,11 @@ ZCZC W07 120 L12 Update week 7 top 10 list
 ZCZC W07 15 L13 Download WEEK07.tar.bz2.asc and do the task
 ZCZC W07 10 L14 Update mylog.txt
 ZCZC W07 5 L15 make SHA256NUM
+ZCZC W08 10 L01 SCELE related
+ZCZC W08 100 L02 ZOOM related
+ZCZC W08 30 L05 GSGS related : pop quiz
+ZCZC W08 60 L10 Read chapter 05
+ZCZC W08 180 L11 Update myrank.txt and top 10 list
+ZCZC W08 120 L12 LFS
+ZCZC W08 10 L13 Update mylog.txt
+ZCZC W08 make SHA256NUM
