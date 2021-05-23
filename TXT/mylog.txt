@@ -92,3 +92,13 @@ ZCZC W08 180 L11 Update myrank.txt and top 10 list
 ZCZC W08 120 L12 LFS
 ZCZC W08 10 L13 Update mylog.txt
 ZCZC W08 make SHA256NUM
+ZCZC W09 30 L01 SCELE related
+ZCZC W09 100 L02 Zoom Related
+ZCZC W09 15 L05 GSGS Related
+ZCZC W09 60 L11 Read chapter 11
+ZCZC W09 120 L12 Update myrank.txt
+ZCZC W09 120 L13 Update Week 09 TOP 10 List
+ZCZC W09 240 L14 LFS Week 09
+ZCZC W09 10 L15 Place report to W09/ Dir
+ZCZC W09 5 L16 Update mylog.txt
+ZCZC W09 10 L17 SHA256NUM

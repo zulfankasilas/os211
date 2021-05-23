@@ -20,3 +20,6 @@ ZCZC W06 x1non
 ZCZC W07 vadimbhirawa
 ZCZC W07 yasyfawiwaha
 ZCZC W07 zaki-indra
+ZCZC W08 zaki-indra
+ZCZC W08 veniche
+ZCZC W08 vandhya
