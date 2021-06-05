@@ -102,3 +102,14 @@ ZCZC W09 240 L14 LFS Week 09
 ZCZC W09 10 L15 Place report to W09/ Dir
 ZCZC W09 5 L16 Update mylog.txt
 ZCZC W09 10 L17 SHA256NUM
+ZCZC W10 30 L01 SCELE related
+ZCZC W10 100 L02 Zoom related
+ZCZC W10 15 L05 GSGS related
+ZCZC W10 60 L11 Read chapter 12
+ZCZC W10 10 L12 Update myrank.txt
+ZCZC W10 30 L13 Update TOP 10 Tips for Week 10
+ZCZC W10 240 L14 LFS Chapter 8
+ZCZC W10 10 L15 Place report to W10/
+ZCZC W10 10 L16 Update mylog.txt
+ZCZC W10 10 L17 SHA256NUM
+
